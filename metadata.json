@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Rock Paper Scissors AI",
+  "description": "Play Rock Paper Scissors against an AI using your webcam.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
